@@ -23,3 +23,9 @@ To enhance my understanding and become proficient in C++, make use of the follow
 - Supplement theoretical learning with hands-on coding exercises.
 - Use the recommended resources to clarify doubts and expand your knowledge.
 
+# Tasks for me (3 Days)
+- Practice Lots of loop questions including pattern , series
+- Practice lots of 1D , 2D array related questions including matrix
+- Learn more about string in c / c++ (practice lot of question)
+- array built in function in stl 
+- recursion related questions
