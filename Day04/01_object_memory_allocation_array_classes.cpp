@@ -181,3 +181,15 @@ int main()
 
     return 0;
 }
+
+// void example(void)
+// {
+// code goes here
+// }
+
+// class Employee{
+//     // private by default (not needed declare private automatically set)
+//     // int id;
+//     // public:
+//     //     string names;
+// }
