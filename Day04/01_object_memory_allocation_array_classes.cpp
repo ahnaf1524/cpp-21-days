@@ -127,7 +127,7 @@ public:
     }
 
     // Getter for the student count in a particular department
-    int getStudentCount(int departmentIndex) const
+    int getStudentCount(int departmentIndex)
     {
         if (departmentIndex >= 0 && departmentIndex < numDepartments)
             return studentCounts[departmentIndex];
