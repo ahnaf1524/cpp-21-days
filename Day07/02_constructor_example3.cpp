@@ -27,7 +27,7 @@ public:
 
 // Default Constructor Definition
 // Initializes the real and imaginary parts of the complex number
-Complex::Complex(void)
+Complex::Complex(void) // Takes no parameter
 {
     realPart = 10;      // Default value for the real part
     imaginaryPart = 20; // Default value for the imaginary part
